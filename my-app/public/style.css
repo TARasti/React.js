@@ -1,0 +1,140 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+body{
+    margin: 0%;
+    background-color: whitesmoke;
+    
+}
+
+/* ##### Header CSS Start ##### */
+
+.header{
+    margin: 0;
+    padding: 5px 20px;
+    background-color: #ffc400;
+    color: white;
+    display: flex;
+    position: relative;
+    box-shadow: 0px 0px 10px 0px rgb(141, 138, 138);
+}
+.greeting{
+    /* margin-left: 70%; */
+    /* padding: 10px; */
+    position: absolute;
+    right: 10px;
+}
+
+.greetingclass{
+    margin: 0;
+    padding: 0;
+}
+
+.name{
+    margin: 20px 0 0 0;
+}
+.time{
+    margin: 0;
+    font-weight: bold;
+}
+
+/* ##### Header CSS End ##### */
+
+/* ##### Note CSS Start ##### */
+
+.notes{
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 3px grey;
+    background-color: white;
+    border-radius: 10px;
+    display: block;
+    width: 20%;
+    float: left;
+}
+.notefooter{
+    display: inline;
+}
+.time{
+    color: #ffc400;
+    float: left;
+}
+.deletebtn {
+    color: #ffc400;
+    background-color: white;
+    font-size: large;
+    border: none;
+    float: right;
+}
+.deletebtn:hover{
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* ##### Note CSS End ##### */
+
+
+/* ##### AddNotes CSS Start ##### */
+
+.addnote{
+    margin: auto;
+    box-shadow: 5px 5px 3px grey;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    width: 40%;
+}
+
+.title{
+    display: block;
+    border: none;
+    outline: none;
+    margin: 20px;
+    padding: 20px 20px 0px 20px;
+    width: 85%;
+    font-size: large;
+    font-weight: bold;
+}
+
+.note{
+    display: block;
+    border: none;
+    outline: none;
+    margin: 20px;
+    padding: 20px 20px;
+    width: 85%;
+    font-size: medium;
+}
+
+.createnotes button{
+    display: inline-block; 
+    margin: 10px;
+    padding: 8px;
+    background-color: #ffc400;
+    color: white;
+    border: none;
+    border-radius: 100%;
+    
+}
+.createnotes button:hover{
+    box-shadow: 0px 0px 10px 0px rgb(141, 138, 138);
+    background-color: gray;
+    cursor: pointer;
+}
+
+/* ##### AddNotes CSS Start ##### */
+
+
+/* ##### Footer CSS Start ##### */
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    color: gray;
+}
+
+/* ##### Footer CSS End ##### */
