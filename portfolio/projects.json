@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "title": "Web Enabled Smart Traffic Congestion System",
+            "image": "https://tarasti.github.io/Tanveer-Portfolio/assets/projects/output.PNG",
+            "description": "Smart Traffic Congestion System is a web Application where user ca get prediction of traffic congestion ot specific road on specific date and time. Used technologies are MERN, OpenLayers, OSRM, and Python. Worked as web developer in Digital Distribution Lab(DDL). Code is not public due to organisation privacy policy.",
+            "code_link": ""
+        },
+        {
+            "id": "2",
+            "title": "Authentication System",
+            "image": "https://tarasti.github.io/Tanveer-Portfolio/assets/projects/Authentication%20System.PNG",
+            "description": "User Authentication System is build for authentication of users on website. Before visiting site users will login first by providing credentials. If user don't has any account he/she should register first. Used Technologies are MongoDB and Node.js.",
+            "code_link": "https://github.com/TARasti/WebDevelopment/tree/main/Authentication%20System"
+        },
+        {
+            "id": "3",
+            "title": "Blog Website",
+            "image": "https://tarasti.github.io/Tanveer-Portfolio/assets/projects/Blog%20Home.PNG",
+            "description": "A simple blog website where user can read and publish new blogs. Used technologies are EJS, CSS.",
+            "code_link": "https://github.com/TARasti/WebDevelopment/tree/main/Blog-Website"
+        },
+        {
+            "id": "4",
+            "title": "Notes Keeper",
+            "image": "https://tarasti.github.io/Tanveer-Portfolio/assets/projects/Note%20keeper.PNG",
+            "description": "Notes Keeper is a web application where user can store import notes and also read them. Used technologies are React.js.",
+            "code_link": "https://github.com/TARasti/React.js/tree/main/my-app"
+        },
+        {
+            "id": "5",
+            "title": "App Manager",
+            "image": "https://tarasti.github.io/Tanveer-Portfolio/assets/projects/App%20Manager.PNG",
+            "description": "App manager is a desktop application where user can add all files and application and run any file he/she wants. Used technologies are Python.",
+            "code_link": "https://github.com/TARasti/Python/tree/main/Apps%20Manager"
+        },
+        {
+            "id": "6",
+            "title": "REST API",
+            "image": "https://tarasti.github.io/Tanveer-Portfolio/assets/projects/REST%20API.PNG",
+            "description": "User can perform CURD operation. Used technologies are MongoDB and Node.js.",
+            "code_link": "https://github.com/TARasti/WebDevelopment/tree/main/REST_API"
+        },
+        {
+            "id": "7",
+            "title": "Calculator",
+            "image": "https://tarasti.github.io/Tanveer-Portfolio/assets/projects/Calculator.PNG",
+            "description": "A simple calculator where user can perform arithmatic operations. Used technologies are Python.",
+            "code_link": "https://github.com/TARasti/Python/tree/main/Calculator"
+        },
+        {
+            "id": "8",
+            "title": "Speed Typing",
+            "image": "https://tarasti.github.io/Tanveer-Portfolio/assets/projects/Spped%20Typing.PNG",
+            "description": "Speed Typing is desktop application where user can test his typing speed. Used technologies are Python.",
+            "code_link": "https://github.com/TARasti/Python/tree/main/SpeedTyping"
+        },
+        {
+            "id": "9",
+            "title": "Youtube Downloader",
+            "image": "https://tarasti.github.io/Tanveer-Portfolio/assets/projects/Youtube%20Downloader.PNG",
+            "description": "Youtube downloader is web application where user can download youtube videos at different resolutions. Used technologies are Python and Flask.",
+            "code_link": "https://github.com/TARasti/Python/tree/main/Youtube%20Downloader"
+        },
+        {
+            "id": "10",
+            "title": "Youtube Scrapper",
+            "image": "https://tarasti.github.io/Tanveer-Portfolio/assets/projects/Youtube%20Scrapper.PNG",
+            "description": "Youtube scrapper is desktop appliction used for scrapping youtube video thumbnail images. Used Tchnologies are Python and Selenium.",
+            "code_link": "https://github.com/TARasti/Python/tree/main/Youtube_Scrapper"
+        }
+    ]
+}

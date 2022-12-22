@@ -1,0 +1,187 @@
+/* Common style */
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #434242;
+    color: #fff;
+}
+.center{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Home Page Style */
+.links{
+    color: #B2B2B2;
+    transition: 0.5s ease all;
+}
+.links:hover{
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Icons style */
+.icons {
+    margin: 1rem;
+    color: #B2B2B2;
+    transition: .5s all ease;
+}
+.icons:hover{
+    cursor: pointer;
+    color: #fff;
+}
+#icons{
+    justify-content: center;
+    text-align: center;
+}
+
+/* Button Style */
+.btn-ani{
+    background-color: #cccccc;
+    color: #666666;
+}
+.btn-ani:hover{
+    background-color: #cccccc;
+    color: #666666;
+}
+.custom-btn{
+    border: 1px solid #B2B2B2;
+    width: 150px;
+    margin: 1rem;
+}
+
+.show-more-btn{
+    border: none;
+    background-color: #fff;
+    color: #B2B2B2;
+    transition: 0.5s ease all;
+}
+.show-more-btn:focus {
+    outline: none;
+  }
+.show-more-btn:hover{
+    color: #434242;
+}
+
+/* Copyright Style */
+.copyright{
+    font-style: italic;
+    color: #B2B2B2;
+}
+
+/* Navbar Style */
+.navbar{
+    z-index: 1;
+}
+.nav-links{
+    margin: 1rem;
+    color: #B2B2B2;
+    transition: .5s all ease;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.nav-links:hover{
+    color: #434242;
+    cursor: pointer;
+}
+
+/* Projects Card style */
+.card{
+    margin: 5px;
+    width: 20rem;
+    height: auto;
+    color: #434242;
+}
+
+/* Contact Page style */
+.contact-detail, .about-us, .education{
+    text-align: left;
+    align-items: left;
+    margin: 10px;
+    padding: 50px;
+    border: 1px solid #B2B2B2;
+    border-radius: 30px;
+}
+
+.item{
+    border: 1px solid #B2B2B2;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+
+/* About Page Style */
+.about-us{
+    margin: 10px;
+}
+
+/* Education Page Style */
+.education p{
+    color: #B2B2B2;
+}
+
+.education .uni{
+    font-weight: 300;
+    font-size: 20px;
+}
+
+/* Projects Page style */
+.projects{
+    width: 100%;
+    margin: 10px;
+    padding: 50px;
+    border: 1px solid #B2B2B2;
+    border-radius: 30px;
+}
+
+.center-projects{
+    margin: 20px;
+}
+
+/* Project Card style */
+.image-crop{
+    object-fit:scale-down;
+    max-width:320px;
+    max-height:200px;
+}
+
+.line{
+    background-color: #B2B2B2;
+}
+/* Upload page style */
+
+.form{
+    text-align: left;
+    align-items: left;
+    margin: 10px;
+    padding: 40px;
+    border: 1px solid #B2B2B2;
+    border-radius: 30px;
+    width: 40rem;
+}
+
+/* Layout style */
+
+.layout{
+    border: 1px solid #B2B2B2;
+    border-radius: 2px;
+}
+
+
+/* ProjectsLayout style */
+
+.main-layout{
+    margin: 20px;
+}
+
+
+/* upload page style */
+.upload-center{
+    /* left: 30%; */
+    position: relative;
+    margin: auto;
+}

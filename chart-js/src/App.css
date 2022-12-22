@@ -1,0 +1,29 @@
+body{
+  margin: 20px;
+}
+.App{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chart{
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
+  width: 500px;
+  box-shadow: 10px 10px 8px #888888;
+  border-radius: 20px;
+}
+
+.chart-body{
+  margin: 20px;
+}
+.chart-text{
+  margin: 10px;
+  text-align: center;
+}
+
+.hr{
+  margin: 10px;
+}
